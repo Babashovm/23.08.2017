@@ -1,0 +1,38 @@
+1) Paradiqma oyrenmeye niye ehtiyacimiz var?
+Proqramlasdirma dilleri ozunde bir ve ya bir nece paradiqmalarin xususiyyetlerini dasiya biler.Proqram yaziliminda hansi proqram dilini secmek ucun hemin proqramin hansi paradiqma xususiyetlerini dasidigini bilmek lazimdir.Kompyuterin inkisafi proqramlasdirma dillerin inkisafina tesir etmisdir.Bu da yeni paradigmalarin yaranmasina sebeb olmusdur.Paradigmaya ona gore ehtiyacimiz var ki bir proqram ve ya lahiye yazildiginda duzgun proqram dilini secmek ucun ehtiyacimiz var.
+
+
+
+2) Hansi programlasdirma dilini sececeyime nece gerar vermeliyem?
+-1)Proqramlasdirma dili secimine yan tesirler movcuddur.
+Birinci bu proqram dilinin harda isleyeceyi vacibdir.
+--1)Desktopda
+--2)Mobilde
+--3)Tabletde
+--4)Smart Tv ve s.
+
+-2)Bu secimden sonra lahiyenin ne olacagi ve neqeder boyuklukde olacagi vacibdir.
+-3)Proqram dilinin ozunden hansi paradigmalarin olacagina qerar vermek.
+-4)Bundan sonra proqram dilini hansi olacagina qerar vermek olar.
+
+
+
+3) Hansi paradigamalar var ve bir birinden ferqleri nelerdir?
+Paradigmalar bir nece qruplara ayrilir.Onlardan bezileri asagidakilardir:
+imperative
+functional
+declarative
+object-oriented
+procedural
+logic
+symbolic
+
+Ikin proqramlasdirmada kodlar sadece alt-alta yazilmisdir.Bu "imperative" paradigma idi.Daha sonra kompyutere daha cox kod yazildigi ucun proqramcilar bele qerara gelmisdiler ki mueyyen funksiyani yerine yetiren kodlari tekrar etmemek ucun onlari bir funksiya icine almisdilar.Bu da yeni paradigmani "Functional" paradigmanin yaranmagina sebeb olmusdur.Daha sonra proqramcilara bir nece funksiyanin bir yerde lazim oldugu ucun onlari bir kitabxana icin yigdilar.Bu da "Declarative Paradigma" yaranmasina sebeb oldu.Artiq kompyuter inkisaf etdikce daha boyuk proqramlara ehtiyac yarandi.Bu da bir nece proqramcinin bir yerde islemesine sebeb yaratdi.Bunun ucun proqramcilar yeni bir paradigmanin "object-oriented" yaratdilar.
+
+
+
+4) Size gore en yaxsi paradigma hansidir?
+Mene gore en yaxsi paradigma "imperative" paradigmadir.Cunki o olmasaydi digerleri olmazdi..Hansi paradigmanin secimine ise qaldiqda duzeldeceyim proqram dilini harda ve nece istifade eliyeceyimden asilidir.
+
+Menbeler:
+1)https://en.wikipedia.org/wiki/Programming_paradigm
