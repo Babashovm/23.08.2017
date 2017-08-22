@@ -1,0 +1,15 @@
+1)<h1>-<h6>
+2)<p></p>
+3)<img>
+4)<video>
+5)<br/>
+6)<hr/>
+7)<b></b>
+8)<!-- -->
+9)<table></table>
+10)<ul><li></li></ul>
+11)<iframe></iframe>
+12)<section></section>
+13)<aside></aside>
+14)<footer></footer>
+15)<nav></nav>
